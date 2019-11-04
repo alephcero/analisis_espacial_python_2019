@@ -100,5 +100,8 @@ venv.bak/
 # mkdocs documentation
 /site
 
+data/molinetes_historico_2018.csv
+data/recorridos-realizados-2019.csv
+
 # mypy
 .mypy_cache/
