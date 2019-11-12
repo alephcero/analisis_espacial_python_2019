@@ -1,0 +1,397 @@
+lat,long,nombre_estacion,id_estacion,capacidad,dirección_completa,direccion_nombre,direccion_altura,direccion_interseccion,barrio
+-34.5924233,-58.3747151,002 - Retiro I,2,20,"Ramos Mejia, Jose Maria, Dr. Av. y Del Libertador Av.","Ramos Mejia, Jose Maria, Dr. Av.",,Del Libertador Av.,Retiro
+-34.611032,-58.3682604,003 - ADUANA,3,20,Moreno y Paseo Colon Av.,Moreno,,Paseo Colon Av.,Monserrat
+-34.6017255,-58.3687628,004 - Plaza Roma,4,20,Lavalle y Bouchard,Lavalle,,Bouchard,San Nicolas
+-34.5805497,-58.4209542,005 - Plaza Italia,5,42,Sarmiento Av. 2601,Sarmiento Av.,2601,,Palermo
+-34.628526,-58.369758,006 - Parque Lezama,6,20,"Garcia, Martin Av. 295","Garcia, Martin Av.",295,,San Telmo
+-34.606498,-58.381098,007 - OBELISCO,7,16,"Pellegrini, Carlos 215","Pellegrini, Carlos",215,,San Nicolas
+-34.6094218,-58.3893364,008 - Congreso,8,24,"Cevallos, Virrey y Yrigoyen, Hipolito Av.","Cevallos, Virrey",,"Yrigoyen, Hipolito Av.",San Nicolas
+-34.585443,-58.407741,009 - Parque Las Heras,9,24,"Diaz, Cnel. Av. 2300","Diaz, Cnel. Av.",2300,French,Palermo
+-34.6011762,-58.3850791,011 - Tribunales,11,20,Talcahuano 600,Talcahuano,600,,San Nicolas
+-34.5927096,-58.388807,012 - Plaza Vicente Lopez,12,16,Parana y Juncal,Parana,,Juncal,Recoleta
+-34.61009,-58.406,013 - ONCE,13,30,Pueyrredon Av. y Rivadavia Av.,Pueyrredon Av.,,Rivadavia Av.,Balvanera
+-34.577424,-58.426387,014 - Pacifico,14,30,"Santa Fe Av. y Bullrich, Int. Av.",Santa Fe Av.,,"Bullrich, Int. Av.",Palermo
+-34.6004,-58.3636706,015 - JUANA MANSO II,15,20,"Manso Juana y De La Barra,  Emma",Manso Juana,,"De La Barra,  Emma",Puerto Madero
+-34.6064101,-58.4187306,017 - Plaza Almagro,17,20,Bulnes 441,Bulnes,441,"Peron, Juan Domingo, Tte. General",Almagro
+-34.5956027,-58.3776353,019 - PLAZA SAN MARTIN,19,24,Santa Fe Av. 750,Santa Fe Av.,750,Maipu,Retiro
+-34.5798619,-58.4417756,020 - Distrito Audiovisual,20,20,Zapiola y Dorrego,Zapiola,,Dorrego,Colegiales
+-34.6396832,-58.4062115,021 - Parque Patricios,21,24,Iguazu y Uspallata,Iguazu,,Uspallata,Parque Patricios
+-34.5938629,-58.3825498,022 - Arenales,22,20,Cerrito y Arenales,Cerrito,,Arenales,Retiro
+-34.6003095,-58.3793463,023 - Suipacha,23,12,Suipacha y Viamonte,Suipacha,,Viamonte,San Nicolas
+-34.610583,-58.3808943,024 - ALSINA,24,18,"Alsina, Adolfo E Irigoyen, Bernardo De","Alsina, Adolfo",,"Irigoyen, Bernardo De",Monserrat
+-34.5894269,-58.4161178,025 - Plaza Guemes,25,24,"Salguero, Jeronimo y Mansilla, Lucio Norberto, General","Salguero, Jeronimo",,"Mansilla, Lucio Norberto, General",Palermo
+-34.6004606,-58.3636593,026 - JUANA MANSO I,26,24,"Manso Juana y De La Barra,  Emma",Manso Juana,,"De La Barra,  Emma",Puerto Madero
+-34.599068,-58.3900887,027 - Montevideo,27,16,Cordoba Av. y Montevideo,Cordoba Av.,,Montevideo,San Nicolas
+-34.6231273,-58.4127377,028 - Plaza Boedo,28,20,"Calvo, Carlos 3310","Calvo, Carlos",3310,Sanchez De Loria,San Cristobal
+-34.6079414,-58.4335573,029 - Parque Centenario,29,30,Patricias Argentinas Av. y Estivao,Patricias Argentinas Av.,,Estivao,Caballito
+-34.5908211,-58.3973698,030 - Peña,30,20,Peña y Azcuenaga,Peña,,Azcuenaga,Recoleta
+-34.6032081,-58.4396457,031 - Padilla,31,20,"Padilla y Alvarez, Julian",Padilla,,"Alvarez, Julian",Villa Crespo
+-34.6072074,-58.3735984,032 - Catedral,32,16,San Martin 67,San Martin,67,,San Nicolas
+-34.5970909,-58.3989807,033 - Facultad de Medicina,33,20,"Uriburu Jose E., Pres. 987","Uriburu Jose E., Pres.",987,,Recoleta
+-34.6045481,-58.3767677,036 - MAIPÚ,36,16,Maipu 300,Maipu,300,,San Nicolas
+-34.5970497,-58.3828403,038 - Plaza Libertad,38,20,Cerrito 990,Cerrito,990,"Alvear, Marcelo T. De",Retiro
+-34.6092213,-58.3876925,039 - CONGRESO II,39,20,Rivadavia Av. y Parana,Rivadavia Av.,,Parana,Monserrat
+-34.604461,-58.373499,040 - Sarmiento,40,16,Sarmiento 481,Sarmiento,481,,San Nicolas
+-34.6364511,-58.4076348,041 - URQUIZA,41,20,"Urquiza, Gral. y Rondeau","Urquiza, Gral.",,Rondeau,Parque Patricios
+-34.604447,-58.38003248,042 - Diagonal Norte,42,24,"Saenz Peña, Roque, Pres. Diagonal Norte Av. y Suipacha","Saenz Peña, Roque, Pres. Diagonal Norte Av.",,Suipacha,San Nicolas
+-34.583918,-58.3900194,334 - CENTRO DE EXPOSICIONES,43,28,"Figueroa Alcorta, Pres. Av. 2133","Figueroa Alcorta, Pres. Av.",2133,,Recoleta
+-34.5755148,-58.4138829,044 - Ecoparque,44,20,Del Libertador Av. 3260,Del Libertador Av.,3260,,Palermo
+-34.6018635,-58.3866934,045 - Uruguay,45,20,Uruguay Av. 561,Uruguay Av.,561,Tucuman,San Nicolas
+-34.6163012,-58.3743749,046 - Chile,46,18,Peru 718,Peru,718,,San Telmo
+-34.6117408,-58.3733149,047 - Colegio Nacional de Buenos Aires,47,16,Bolivar 306,Bolivar,306,Moreno,Monserrat
+-34.623937,-58.362004,034 - Colonia Express,48,16,Dellepiane y Pedro De Mendoza,Dellepiane,150,Don Pedro De Mendoza Av.,San Nicolas
+-34.6290527,-58.422611,049 - 33 Orientales,49,20,Constitucion y Treinta y Tres Orientales,Constitucion,,Treinta Y Tres Orientales,Boedo
+-34.5837348,-58.4010798,050 - Hospital Rivadavia,50,19,Pereyra Lucena 2516,Pereyra Lucena,2516,,Palermo
+-34.6014776,-58.3821261,051 - TUCUMAN,51,12,Tucuman y 9 De Julio Av.,Tucuman,,9 De Julio Av.,San Nicolas
+-34.606682,-58.414851,052 - SANCHEZ DE BUSTAMANTE,52,20,Sanchez De Bustamante 212,Sanchez De Bustamante,212,,Almagro
+-34.5952579,-58.3743514,053 - Ricardo Rojas,53,20,San Martin 1068,San Martin,1068,,Retiro
+-34.5981183,-58.4219844,054 - Acuña de Figueroa,54,20,"Lavalle y Acuña De Figueroa, Francisco",Lavalle,,"Acuña De Figueroa, Francisco",Almagro
+-34.5994122,-58.36966404,055 - Bouchard,55,20,Viamonte 101,Viamonte,101,,San Nicolas
+-34.588567,-58.425999,056 - Plaza Palermo Viejo,56,16,Costa Rica y Armenia,Costa Rica,,Armenia,Palermo
+-34.6134468,-58.3706051,057 - BELGRANO,57,16,Balcarce 482,Balcarce,482,,Monserrat
+-34.5752773,-58.4346883,058 - Ministro Carranza,58,20,Santa Fe Av. y Dorrego,Santa Fe Av.,,Dorrego,Palermo
+-34.617771,-58.3804546,018 - Independencia,59,20,"Independencia Av. E Irigoyen, Bernardo De",Independencia Av.,,"Irigoyen, Bernardo De",Monserrat
+-34.6016509,-58.371079,060 - 25 De Mayo,60,20,25 De Mayo 527, De Mayo,527,,San Nicolas
+-34.5985102,-58.3768501,062 - Córdoba,62,20,Maipu 820,Maipu,820,,Retiro
+-34.5987657,-58.3728605,063 - Reconquista,63,20,Reconquista 76,Reconquista,76,Cordoba Av.,San Nicolas
+-34.5936508,-58.3941087,064 - RIOBAMBA,64,20,Riobamba 1264,Riobamba,1264,Juncal,Recoleta
+-34.5873124,-58.4157873,065 - Julián Álvarez,65,20,Guemes 3822,Guemes,3822,,Palermo
+-34.5945475,-58.4138713,066 - Billinghurst,66,20,"Carcova, De La 3508","Carcova, De La",3508,,Recoleta
+-34.6065099,-58.385434,068 - Rivarola,68,20,"Rivarola, Rodolfo, Dr. 175","Rivarola, Rodolfo, Dr.",175,,San Nicolas
+-34.5961006,-58.4046092,069 - Ecuador,69,16,Ecuador 1226,Ecuador,1226,"Mansilla, Lucio Norberto, General",Recoleta
+-34.5926862,-58.4260597,070 - ARAOZ,70,20,Araoz 1413,Araoz,1413,Gorriti,Palermo
+-34.6026673,-58.3833559,071 - CERRITO,71,30,"Saenz Peña, Roque, Pres. Diagonal Norte Av. y Cerrito","Saenz Peña, Roque, Pres. Diagonal Norte Av.",,Cerrito,San Nicolas
+-34.6135421,-58.3746635,072 - Venezuela,72,18,Peru 490,Peru,490,,Monserrat
+-34.6306814,-58.3718235,073 - Ruy Díaz de Guzmán,73,16,"Garcia, Martin Av. y Ruy Diaz De Guzman","Garcia, Martin Av.",,Ruy Diaz De Guzman,Boca
+-34.6043825,-58.4346338,074 - INSTITUTO  LELOIR,74,24,"Ibarbourou, Juana De y Patricias Argentinas Av.","Ibarbourou, Juana De",,Patricias Argentinas Av.,Caballito
+-34.6122976,-58.3989871,075 - Plaza Primero de Mayo,75,20,Pichincha 238,Pichincha,238,,Balvanera
+-34.6116273,-58.3947367,077 - SARANDI,77,20,Sarandi 176,Sarandi,176,"Alsina, Adolfo",Balvanera
+-34.5910737,-58.3799953,078 - SUIPACHA Y ARROYO,78,20,Suipacha 1420,Suipacha,1420,,Retiro
+-34.61189,-58.36393,079 - AZUCENA VILLAFLOR,79,30,"Villaflor, Azucena y Dealessi, Pierina","Villaflor, Azucena",,"Dealessi, Pierina",Puerto Madero
+-34.624435,-58.4303766,080 - DOBLAS,80,16,Doblas 608,Doblas,608,Valle,Caballito
+-34.6078917,-58.4263947,082 - HOSPITAL ITALIANO,82,20,Rawson 394,Rawson,394,Potosi,Almagro
+-34.603269,-58.3893728,083 - Paraná,83,20,Lavalle 1590,Lavalle,1590,,San Nicolas
+-34.6023203,-58.3955144,084 - Lavalle,84,20,Ayacucho 595,Ayacucho,595,,Balvanera
+-34.5948057,-58.4091784,085 - AGUERO,85,20,"Aguero y Mansilla, Lucio Norberto, General",Aguero,,"Mansilla, Lucio Norberto, General",Recoleta
+-34.6212681,-58.4016808,086 - SAAVEDRA,86,20,Saavedra 1019,Saavedra,1019,,San Cristobal
+-34.619845,-58.4314942,087 - Guayaquil,87,16,Guayaquil y Doblas,Guayaquil,,Doblas,Caballito
+-34.612575,-58.404356,088 - MISIONES,88,20,Misiones 209,Misiones,209,,Balvanera
+-34.5825475,-58.4056671,089 - Cabello,89,20,Cabello 3082,Cabello,3082,,Palermo
+-34.5866324,-58.3998749,090 - GUTIERREZ,90,20,"Gutierrez, Juan Maria 2685","Gutierrez, Juan Maria",2685,Aguero,Recoleta
+-34.6174482,-58.397602,091 - Pasco,91,20,Pasco 708,Pasco,708,Chile,Balvanera
+-34.6316444,-58.4053386,092 - Salcedo,92,20,Salcedo 2908,Salcedo,2908,Dean Funes,Parque Patricios
+-34.620798,-58.3944635,093 - CARLOS CALVO,93,20,Sarandi 1010,Sarandi,1010,,San Cristobal
+-34.591511,-58.449652,094 - GÚZMAN,94,30,Guzman 129,Guzman,129,Leiva,Chacarita
+-34.6021121,-58.3781678,095 - ESMERALDA,95,16,Esmeralda 516,Esmeralda,516,,San Nicolas
+-34.6027814,-58.4116586,096 - Carlos Gardel,96,20,Guardia Vieja 3302,Guardia Vieja,3302,Aguero,Balvanera
+-34.6117981,-58.3784717,098 - Moreno,98,16,Moreno 838,Moreno,838,Tacuari,Monserrat
+-34.5960961,-58.435408,099 - Malabia,99,20,Malabia 780,Malabia,780,Loyola,Villa Crespo
+-34.5891857,-58.4424397,101 - Fitz Roy,101,20,Fitz Roy 1092,Fitz Roy,1092,Loyola,Chacarita
+-34.5864287,-58.4458199,102 - ROSETI,102,12,Roseti 50,Roseti,50,Dorrego Av.,Chacarita
+-34.587617,-58.455212,104 - Federico Lacroze,104,30,Guzman Av. 1100,Guzman Av.,1100,Corrientes Av.,Chacarita
+-34.6340844,-58.4008662,105 - 15 DE NOVIEMBRE,105,15,15 De Noviembre De 1889 2687, De Noviembre De,2687,Catamarca,Parque Patricios
+-34.6152509,-58.3958827,106 - RINCÓN,106,20,Republica Bolivariana De Venezuela 2091,Republica Bolivariana De Venezuela,2091,,Balvanera
+-34.630374,-58.395852,107 - HOSPITAL GARRAHAN,107,16,Brasil y Pichincha Av.,Brasil,,Pichincha Av.,Parque Patricios
+-34.601738,-58.415434,110 - Guardia Vieja,110,20,Guardia Vieja 3500,Guardia Vieja,3500,,Almagro
+-34.6054877,-58.3646858,111 - MACACHA GUEMES,111,30,,Macacha Guemes,350,"Dealessi, Pierina",Puerto Madero
+-34.612075,-58.380384,112 - 9 de Julio,112,16,"Irigoyen, Bernardo De 320","Irigoyen, Bernardo De",320,,Monserrat
+-34.5949745,-58.3722554,114 - DELLA PAOLERA,114,30,"Della Paolera, Carlos M. 297","Della Paolera, Carlos M.",297,"Alem, Leandro N. Av.",Retiro
+-34.5878001,-58.3908362,115 - QUINTANA,115,16,"Quintana, Manuel, Pres. Av. 600","Quintana, Manuel, Pres. Av.",600,"Haedo, Eduardo V., Pres.",Recoleta
+-34.5921708,-58.4025894,116 - HOSPITAL ALEMÁN,116,12,Beruti y Ecuador,Beruti,,Ecuador,Recoleta
+-34.6201008,-58.3741759,117 - HUMBERTO 1°,117,16,Peru 1016,Peru,1016,,San Telmo
+-34.6170196,-58.4026531,118 - MEXICO,118,20,Saavedra y Mexico,Saavedra,,Mexico,Balvanera
+-34.5885608,-58.3973293,119 - EMILIO MITRE,119,20,"Pacheco De Melo, Jose Andres y Larrea","Pacheco De Melo, Jose Andres",,Larrea,Recoleta
+-34.617509,-58.4092876,120 - HOSPITAL RAMOS MEJIA,120,20,Agrelo 3084,Agrelo,3084,,Balvanera
+-34.6011732,-58.4285093,121 - YATAY,121,20,Yatay 925,Yatay,925,Humahuaca,Almagro
+-34.5916569,-58.4204199,122 - COSTA RICA,122,20,Costa Rica 4090,Costa Rica,4090,,Palermo
+-34.580538,-58.411965,124 - UGARTECHE,124,20,Ugarteche 3050,Ugarteche,3050,,Palermo
+-34.6402672,-58.3692243,126 - MINISTERIO DE JUSTICIA  Y SEGURIDAD,126,16,"Regimiento De Patricios Av. y Araoz De Lamadrid, Gregorio, Gral.",Regimiento De Patricios Av.,,"Araoz De Lamadrid, Gregorio, Gral.",Boca
+-34.5923884,-58.453077,127 - SANTOS DUMONT Y OTERO,127,16,"Dumont, Santos 4392","Dumont, Santos",4392,Otero,Chacarita
+-34.6041138,-58.3689118,128 - PARQUE DEL BAJO,128,20,"Madero, Eduardo Av. y Peron, Juan Domingo, Tte. General","Madero, Eduardo Av.",,"Peron, Juan Domingo, Tte. General",San Nicolas
+-34.5921056,-58.3745419,130 - RETIRO II,130,40,,"Ramos Mejia, Av Dr Jose Maria Vargas",,Del Libertador Av.,Retiro
+-34.5984043,-58.3990158,131- HOSPITAL DE CLÍNICAS,131,16,,"Uriburu Jose E., Pres.",,Paraguay,Recoleta
+-34.6033685,-58.372763,132 - CORRIENTES,132,12,Reconquista y Corrientes Av.,Reconquista,,Corrientes Av.,San Nicolas
+-34.6118013,-58.4150532,134 - DON BOSCO,134,20,Don Bosco 3490,Don Bosco,3490,,Almagro
+-34.5972818,-58.3787856,135 - MARCELO T. DE ALVEAR,135,20,Esmeralda 902,Esmeralda,902,,San Nicolas
+-34.6155977,-58.3674923,137 - AZOPARDO Y CHILE,137,20,Azopardo 700,Azopardo,700,,Monserrat
+-34.6353595,-58.3876724,138 - Hospital Britanico,138,12,Perdriel 153,Perdriel,153,,Barracas
+-34.6115231,-58.3904968,141 - SOLIS Y ALSINA,141,20,Solis 225,Solis,225,,Monserrat
+-34.604709,-58.415807,143 - BILLINGHURST Y VALENTÍN GOMEZ,143,20,Billinghurst 455,Billinghurst,455,"Gomez, Valentin",Almagro
+-34.6018744,-58.4060944,144 - PUEYRREDÓN,144,20,Boulogne Sur Mer 684,Boulogne Sur Mer,684,Tucuman,Balvanera
+-34.6221118,-58.4078419,146 - HOSPITAL FRANCES,146,20,"Calvo, Carlos 3024","Calvo, Carlos",3024,,San Cristobal
+-34.6443615,-58.4846764,323 - Parque Avellaneda II,148,28,Directorio Av. y Olivera Av.,Directorio Av.,,Olivera Av.,Parque Avellaneda
+-34.6153266,-58.3813642,149 - LIMA,149,16,Mexico y Lima,Mexico,,Lima,Monserrat
+-34.6181003,-58.3631389,150 - VERA PEÑALOZA,150,30,"Vera Peñaloza,  Rosario y Cossettini, Olga","Vera Peñaloza,  Rosario",,"Cossettini, Olga",Puerto Madero
+-34.6118145,-58.361285,151 - AIME PAINÉ,151,24,"Villaflor, Azucena y Paine, Aime","Villaflor, Azucena",,"Paine, Aime",Puerto Madero
+-34.6181645,-58.3596311,152 - JULIETA LANTERI,152,20,"Vera Peñaloza,  Rosario 599","Vera Peñaloza,  Rosario",599,Lanteri Julieta,Puerto Madero
+-34.6307765,-58.3620701,153 - JUAN MANUEL DE BLANES,153,16,"Blanes, Juan Manuel 383","Blanes, Juan Manuel",383,,Boca
+-34.6005484,-58.4122849,154 - GALLO,154,20,Gallo 789,Gallo,789,,Almagro
+-34.6409617,-58.4125606,155 - PARQUE JOSE EVARISTO URIBURU,155,20,Almafuerte Av. 300,Almafuerte Av.,300,Los Patos,Nueva Pompeya
+-34.5775895,-58.4074696,156 - Plaza Alemania,156,20,Cavia 2939,Cavia,2939,,Palermo
+-34.592735,-58.4450697,158 - VILLARROEL,158,20,Villarroel 1321,Villarroel,1321,Humboldt,Chacarita
+-34.6020779,-58.4196761,161 - Humahuaca,161,20,Humahuaca 3912,Humahuaca,3912,,Almagro
+-34.608985,-58.401924,162 - LARREA Y BARTOLOMÉ MITRE,162,20,Larrea 80,Larrea,80,,Balvanera
+-34.6095663,-58.4064308,163 - ONCE II,163,30,"Mitre, Bartolome y Pueyrredon Av.","Mitre, Bartolome",,Pueyrredon Av.,Balvanera
+-34.6181442,-58.3669021,164 - FACULTAD DE INGENERIA,164,20,Estados Unidos 21,Estados Unidos,21,,San Telmo
+-34.597048,-58.407614,165 - PLAZA MONSEÑOR MIGUEL DE ANDREA,165,12,"Anchorena, Tomas Manuel De, Dr. y Cabrera, Jose A.","Anchorena, Tomas Manuel De, Dr.",,"Cabrera, Jose A.",Recoleta
+-34.5891897,-58.3932507,166 - Cementerio de Recoleta,166,20,"Lopez, Vicente 2000","Lopez, Vicente",2000,,Recoleta
+-34.6070594,-58.4485709,275 - PLAZA 24 DE SEPTIEMBRE,167,16,San Martin Av. 1355,San Martin Av.,1355,,Villa Crespo
+-34.6186217,-58.3812271,168 - Estados Unidos,168,16,Estados Unidos y Lima,Estados Unidos,,Lima,Constitucion
+-34.611875,-58.411887,169 - FACULTAD DE PSICOLOGIA,169,12,"Yrigoyen, Hipolito y 24 De Noviembre","Yrigoyen, Hipolito",,24 De Noviembre,Balvanera
+-34.5996644,-58.4061023,170 - SAN LUIS Y ECUADOR,170,20,San Luis 2862,San Luis,2862,Ecuador,Balvanera
+-34.6032813,-58.3997553,171 - Pasteur,171,20,Pasteur 519,Pasteur,519,,Balvanera
+-34.625426,-58.371082,172 - BRASIL,172,16,Brasil y Defensa,Brasil,,Defensa,San Telmo
+-34.6222964,-58.3751607,173 - PLAZA CECILIA GRIERSON,173,16,San Juan Av. 632,San Juan Av.,632,,San Telmo
+-34.597225,-58.391768,174 - MINISTERIO DE EDUCACION,174,16,"Alvear, Marcelo T. De y Rodriguez Peña","Alvear, Marcelo T. De",,Rodriguez Peña,Recoleta
+-34.6267408,-58.3809349,147 - Constitución,175,36,"Garay, Juan De Av. 1050","Garay, Juan De Av.",1050,,Constitucion
+-34.6341873,-58.3611029,176 - PINZÓN Y MARTÍN RODRIGUEZ,176,20,Pinzon 469,Pinzon,469,,Boca
+-34.5680151,-58.41208,177 -PLANETARIO,177,12,Sarmiento Av. 3866,Sarmiento Av.,3866,,Palermo
+-34.638989,-58.3605313,179 - LA BOCA,179,20,Don Pedro De Mendoza Av. 1819,Don Pedro De Mendoza Av.,1819,Palos,Boca
+-34.619775,-58.420492,180 - CASTRO Y MEXICO,180,20,Castro 680,Castro,680,Mexico,Almagro
+-34.5927221,-58.4120394,181 - BILLINGHURST Y MANSILLA,181,20,Billinghurst 1533,Billinghurst,1533,"Mansilla, Lucio Norberto, General",Recoleta
+-34.5780479,-58.4352466,182 - RAVIGNANI Y GUATEMALA,182,20,"Ravignani, Emilio, Dr. 2185","Ravignani, Emilio, Dr.",2185,Guatemala,Palermo
+-34.6156994,-58.3899728,183 - VIRREY CEVALLOS,183,20,Mexico 1652,Mexico,1652,,Monserrat
+-34.6306129,-58.3913419,184 - Pedro Echague,184,20,"Echague, Pedro 1878","Echague, Pedro",1878,Combate De Los Pozos,Parque Patricios
+-34.63133,-58.42177,185 - AV. PAVÓN Y 33 ORIENTALES,185,12,Treinta y Tres Orientales 1400,Treinta Y Tres Orientales,1400,,Boedo
+-34.6136356,-58.4064415,186 - MANZANA 66,186,20,Moreno 2875,Moreno,2875,,Balvanera
+-34.5528626,-58.450854,261 - QUINTEROS LIDORO,187,16,"Quinteros, Lidoro J. Av. 1483","Quinteros, Lidoro J. Av.",1483,,Belgrano
+-34.623923,-58.3904814,373 - Jorgelina De Simone,188,20,Cochabamba 1755,Cochabamba,1755,,Constitucion
+-34.5886889,-58.3852113,189 - POSADAS,189,20,Posadas 1350,Posadas,1350,,Retiro
+-34.5850763,-58.4111136,190 - JUNCAL,190,20,"Juncal y Salguero, Jeronimo",Juncal,,"Salguero, Jeronimo",Palermo
+-34.6079305,-58.3808358,191 - Rivadavia y 9 de Julio,191,16,"Pellegrini, Carlos y Rivadavia Av.","Pellegrini, Carlos",,Rivadavia Av.,San Nicolas
+-34.5972773,-58.3855748,192 - Talcahuano,192,20,Talcahuano 990,Talcahuano,990,,Retiro
+-34.5908626,-58.4061652,193 - ARENALES Y AGUERO,193,20,Arenales y Aguero,Arenales,,Aguero,Recoleta
+-34.6060758,-58.4224635,194 - PERÓN Y ACUÑA DE FIGUEROA,194,16,"Peron, Juan Domingo, Tte. General 3997","Peron, Juan Domingo, Tte. General",3997,,Almagro
+-34.6260785,-58.407389,357 - PLAZA MARTIN FIERRO,195,20,La Rioja y Cochabamba,La Rioja,,Cochabamba,San Cristobal
+-34.6275351,-58.3657211,196 - HOSPITAL ARGERICH,196,20,Pi y Margall 750,Pi Y Margall,750,Necochea,Boca
+-34.6222601,-58.4160137,199 - ESTADOS UNIDOS Y BOEDO,199,20,Estados Unidos 3568,Estados Unidos,3568,Boedo Av.,Boedo
+-34.5883282,-58.4038684,200 - AUSTRIA Y FRENCH,200,20,Austria 2080,Austria,2080,,Recoleta
+-34.6034449,-58.378167,175 - Esmeralda y Corrientes,201,20,Esmeralda y Corrientes Av.,Esmeralda,,Corrientes Av.,San Nicolas
+-34.583811,-58.390967,001 - FACULTAD DE DERECHO,202,30,"Figueroa Alcorta, Pres. Av. 2120","Figueroa Alcorta, Pres. Av.",2120,,Recoleta
+-34.628511,-58.356004,108 - Usina del Arte,203,24,"Caffarena, Agustin R. y Don Pedro De Mendoza Av.","Caffarena, Agustin R.",,Don Pedro De Mendoza Av.,Boca
+-34.6148209,-58.4278453,167 - Hipólito Yrigoyen,204,24,"Yrigoyen, Hipolito Av. 4300","Yrigoyen, Hipolito Av.",4300,,Almagro
+-34.5832733,-58.4279562,125 - F.J.Santamaria de Oro,205,16,Fray Justo Santamaria De Oro y Guatemala,Fray Justo Santamaria De Oro,,Guatemala,Palermo
+-34.5849119,-58.4372524,159 - Fitz Roy & Gorriti,206,16,Fitz Roy y Gorriti,Fitz Roy,,Gorriti,Palermo
+-34.5852485,-58.420906,123 - Armenia,207,20,Armenia 2315,Armenia,2315,Charcas,Palermo
+-34.5804702,-58.4379925,145 - RAVIGNANI,208,20,"Ravignani, Emilio, Dr. y Costa Rica","Ravignani, Emilio, Dr.",,Costa Rica,Palermo
+-34.572132,-58.4113228,335 - General Urquiza,210,20,"Figueroa Alcorta, Pres. Av. y Sarmiento Av.","Figueroa Alcorta, Pres. Av.",,Sarmiento Av.,Palermo
+-34.6266267,-58.3879696,195 - Plaza Garay,211,20,"Garay, Juan De Av. y Saenz Peña, Luis, Pres.","Garay, Juan De Av.",,"Saenz Peña, Luis, Pres.",Constitucion
+-34.600164,-58.434983,129 - Velasco,212,20,"Ramirez De Velasco, Juan 285","Ramirez De Velasco, Juan",285,,Villa Crespo
+-34.5995649,-58.4425362,136 - Acevedo,213,20,Acevedo 220,Acevedo,220,Padilla,Villa Crespo
+-34.5905808,-58.4289624,142 - Armenia y Gorriti,214,16,Armenia 1525,Armenia,1525,Gorriti,Palermo
+-34.5858843,-58.4251226,113 - Guatemala,215,20,Guatemala 4773,Guatemala,4773,,Palermo
+-34.5900976,-58.4114907,059 - Coronel Diaz,216,20,Guemes 3330,Guemes,3330,"Diaz, Cnel. Av.",Palermo
+-34.6342818,-58.4042123,198 - HOSPITAL SARDÁ,217,16,"Castillo, Catulo y Dean Funes","Castillo, Catulo",,Dean Funes,Parque Patricios
+-34.638523,-58.425464,067 - Senillosa,218,16,Senillosa 1905,Senillosa,1905,Zañartu,Parque Chacabuco
+-34.6351732,-58.4157035,140 - Las Casas,219,16,Las Casas 3587,Las Casas,3587,,Boedo
+-34.6354717,-58.4279173,097 - Avelino Diaz,220,16,"Diaz, Avelino y Doblas","Diaz, Avelino",,Doblas,Parque Chacabuco
+-34.6280441,-58.4274042,157 - Senillosa y Zuviria,221,20,Senillosa 989,Senillosa,989,Zuviria,Parque Chacabuco
+-34.5727715,-58.4206642,160 - Godoy Cruz y Libertador,222,20,Godoy Cruz 3279,Godoy Cruz,3279,Del Libertador Av.,Palermo
+-34.623456,-58.424895,178 - José Marmol,223,16,"Marmol, Jose 803","Marmol, Jose",803,,Boedo
+-34.5808537,-58.434484,133 - Nicaragua,224,20,Nicaragua y Bonpland,Nicaragua,,Bonpland,Palermo
+-34.5968511,-58.4295184,109 - Lerma,225,20,Lerma 175,Lerma,175,Bonpland,Villa Crespo
+-34.633335,-58.4132263,139 - Virrey Liniers,226,20,Salcedo 3408,Salcedo,3408,Liniers Virrey,Boedo
+-34.6105021,-58.4327935,188 - Aranguren,227,20,"Aranguren, Juan F., Dr. 137","Aranguren, Juan F., Dr.",137,Portugal,Caballito
+-34.6162819,-58.3657444,010 - Madero UCA,228,20,"Moreau De Justo, Alicia Av. 1600","Moreau De Justo, Alicia Av.",1600,,Puerto Madero
+-34.5813811,-58.4514575,243 - PLAZOLETA CELEDONIO FLORES,229,12,Cordoba 6599,Cordoba,6599,,Chacarita
+-34.5678255,-58.4645037,259 - PLAZA CASTELLI,230,16,Echeverria 3249,Echeverria,3249,,Belgrano
+-34.6051305,-58.4458398,384 - PLAZA BENITO NAZAR,231,16,"Virasoro, Valentin y Figueroa, D. Apolinario, Coronel","Virasoro, Valentin",,"Figueroa, D. Apolinario, Coronel",Villa Crespo
+-34.5599395,-58.4788904,252 - Tamborini,232,20,"Tamborini, Jose Pascual 3821","Tamborini, Jose Pascual",3821,,Coghlan
+-34.5539765,-58.4360367,389 - Plaza República De Mexico,233,24,La Pampa 693,La Pampa,693,,Belgrano
+-34.5483593,-58.4475673,344 - UNIVERSIDAD DI TELLA,234,20,"Saenz Valiente, Juan Pablo 1001","Saenz Valiente, Juan Pablo",1001,,Belgrano
+-34.5737764,-58.4868051,281 - JUAN MANUEL DE ROSAS,235,24,Triunvirato Av. y Roosevelt Franklin D. Av.,Triunvirato Av.,,Roosevelt Franklin D. Av.,Villa Urquiza
+-34.5623422,-58.4550484,254 - Plaza Rafael Hernandez,236,16,Vuelta De Obligado 2004,Vuelta De Obligado,2004,,Belgrano
+-34.6365814,-58.4367011,217 - CACHIMAYO,238,24,Cachimayo 1489,Cachimayo,1489,,Parque Chacabuco
+-34.5650089,-58.4201625,391 - Plaza República de Ecuador,239,20,"Figueroa Alcorta, Pres. Av. y Dorrego Av.","Figueroa Alcorta, Pres. Av.",,Dorrego Av.,Palermo
+-34.558137,-58.465559,239 - Vidal,240,24,Vidal 2799,Vidal,2799,,Belgrano
+-34.600874,-58.494123,348 - Villa del Parque,241,12,"Gutierrez, Ricardo 3105","Gutierrez, Ricardo",3105,,Villa Del Parque
+-34.5771741,-58.4032162,103 - MALBA,242,20,San Martin De Tours 3051,San Martin De Tours,3051,,Palermo
+-34.5874735,-58.4842469,266 - Plaza Alfredo Nobel,244,20,Hamburgo 3310,Hamburgo,3310,,Parque Chas
+-34.5522044,-58.4431506,248 - Husares,245,16,Husares 2201,Husares,2201,,Belgrano
+-34.554326,-58.4389256,338 - Sucre y Dragones,246,16,"Sucre, Antonio Jose De, Mcal. 877","Sucre, Antonio Jose De, Mcal.",877,Dragones,Belgrano
+-34.5839895,-58.4666304,282 - Tronador,247,18,Triunvirato Av. y Tronador,Triunvirato Av.,,Tronador,Villa Ortuzar
+-34.5738411,-58.4742812,346 - Plaza Zapiola,248,20,Donado 2001,Donado,2001,,Villa Urquiza
+-34.649843,-58.388562,307 - LEONARDO PEREYRA,249,16,California 2990,California,2990,,Barracas
+-34.6526797,-58.377215,366 - Plaza Diaz Velez,250,16,"Cruz, Osvaldo Av. y San Antonio","Cruz, Osvaldo Av.",,San Antonio,Barracas
+-34.6446224,-58.409772,388 - Plaza Jose C Paz,251,20,"Pepiri y Paz, Jose C.",Pepiri,,"Paz, Jose C.",Parque Patricios
+-34.6445163,-58.3762137,331 - PLAZA HERRERA,252,16,"Herrera y Quinquela Martin, Benito",Herrera,,"Quinquela Martin, Benito",Barracas
+-34.6172808,-58.4167728,383 - Boedo & Venezuela,253,20,Boedo Av. y Republica Bolivariana De Venezuela,Boedo Av.,,Republica Bolivariana De Venezuela,Almagro
+-34.6206836,-58.4415718,276 - PRIMERA JUNTA,254,16,Rivadavia Av. y Barco Centenera Del,Rivadavia Av.,,Barco Centenera Del,Caballito
+-34.6221889,-58.44855,374 - Puan,255,16,Yerbal 1290,Yerbal,1290,,Caballito
+-34.610398,-58.454304,209 - PAYSANDU,256,20,Paysandu 1182,Paysandu,1182,,Caballito
+-34.570829,-58.481233,264 - Plaza Marcos Sastre,257,24,Miller y Monroe,Miller,,Monroe,Villa Urquiza
+-34.5655918,-58.4554838,336 - La Pampa,258,16,La Pampa 2250,La Pampa,2250,Ciudad De La Paz,Belgrano
+-34.5580469,-58.4434052,290 - Club Excursionistas,259,16,Miñones 1818,Miñones,1818,,Belgrano
+-34.550961,-58.4381142,371 - Paseo de las Americas,260,18,Juramento 646,Juramento,646,,Belgrano
+-34.616207,-58.4406995,272 - Plaza Bruno Giordano,261,16,"Bruno, Giordano y Neuquen","Bruno, Giordano",,Neuquen,Caballito
+-34.60962,-58.4673963,349 - Plaza Saenz Peña,262,16,"Lamas, Andres y Escalada De San Martin, R.","Lamas, Andres",,"Escalada De San Martin, R.",Villa General Mitre
+-34.6217948,-58.4575279,270 - PLAZA DEL ANGEL GRIS,263,12,Calcena y Avellaneda Av.,Calcena,,Avellaneda Av.,Flores
+-34.5559308,-58.4812325,283 - CNEL. JUAN CRUZ CZETZ,264,16,"Balbin, Ricardo, Dr. Av. y Larralde, Crisologo Av.","Balbin, Ricardo, Dr. Av.",,"Larralde, Crisologo Av.",Saavedra
+-34.6418833,-58.450658,361 - Plaza Don Segundo Sombra,265,16,Santander 2347,Santander,2347,,Flores
+-34.6601336,-58.4287202,379 - BERG,266,16,"Berg, Carlos 3402","Berg, Carlos",3402,,Villa Soldati
+-34.6296512,-58.4835484,353 - PLAZA VELEZ SARSFIELD,267,12,Chivilcoy y Avellaneda Av.,Chivilcoy,,Avellaneda Av.,Floresta
+-34.5500734,-58.476643,399 - GARCIA DEL RIO,268,28,Garcia Del Rio y Pinto,Garcia Del Rio,,Pinto,Saavedra
+-34.577296,-58.457854,260 - SAN MIGUEL DE GARICOITS,269,18,"Delgado y Loreto, Virrey",Delgado,,"Loreto, Virrey",Colegiales
+-34.640114,-58.43026,370 - Beauchef,270,16,Beauchef 1995,Beauchef,1995,,Parque Chacabuco
+-34.63008,-58.47426,365 - Venancio Flores,271,20,"Argerich y Flores, Venancio, Gral.",Argerich,,"Flores, Venancio, Gral.",Flores
+-34.5883744,-58.4668651,347 - PLAZA MALAVER,272,20,Heredia 328,Heredia,328,,Villa Ortuzar
+-34.61668,-58.4466674,223 - GAINZA,273,16,"Gainza, Martin De, Gral. 494","Gainza, Martin De, Gral.",494,,Caballito
+-34.5563511,-58.4630428,369 - Ciudad De La Paz,274,24,Ciudad De La Paz 2816,Ciudad De La Paz,2816,,Belgrano
+-34.5619095,-58.4585729,256 - PLAZA NORUEGA,275,20,Ciudad De La Paz y Mendoza,Ciudad De La Paz,,Mendoza,Belgrano
+-34.559476,-58.4699652,296 - FREIRE,276,16,"Freire, Ramon, Cap. Gral. 2899","Freire, Ramon, Cap. Gral.",2899,,Coghlan
+-34.5634645,-58.4360367,292 - PLAZA BOLIVIA,277,12,Olleros Av. y Del Libertador Av.,Olleros Av.,,Del Libertador Av.,Palermo
+-34.564083,-58.469789,233 - MONROE,278,16,Superi 2519,Superi,2519,,Coghlan
+-34.6074177,-58.4047854,325 - CASTELLI Y PERON,279,20,"Castelli y Peron, Juan Domingo, Tte. General",Castelli,,"Peron, Juan Domingo, Tte. General",Balvanera
+-34.6333113,-58.4494755,222 - SIMON BOLIVAR,280,24,"Fernandez Moreno, Baldomero 1701","Fernandez Moreno, Baldomero",1701,,Parque Chacabuco
+-34.6138773,-58.4583742,350 - Plaza Irlanda,281,16,Gaona Av. 2200,Gaona Av.,2200,,Caballito
+-34.5699743,-58.4562794,332 - PLAZOLETA PORTUGAL,282,20,"Aviles, Virrey y Cramer","Aviles, Virrey",,Cramer,Colegiales
+-34.6355054,-58.456035,228 - BALDOMERO,283,20,"Fernandez Moreno, Baldomero 2289","Fernandez Moreno, Baldomero",2289,,Flores
+-34.6311092,-58.4350943,229 - RIGLOS,284,20,Riglos 1019,Riglos,1019,,Parque Chacabuco
+-34.6172122,-58.3561752,400 - Reserva Ecologica,285,20,"Achaval Rodriguez, T., Dr. Av. 1520","Achaval Rodriguez, T., Dr. Av.",1520,,Puerto Madero
+-34.6304712,-58.4551112,284 - BONIFACIO Y CARABOBO,286,16,"Bonifacio, Jose 1913","Bonifacio, Jose",1913,,Flores
+-34.6103343,-58.4409183,299 - HIDALGO,287,20,Hidalgo 796,Hidalgo,796,,Caballito
+-34.6404886,-58.4429517,333 - MIRO,288,20,Miro 1684,Miro,1684,,Parque Chacabuco
+-34.5597934,-58.4484316,255 - BARRANCAS DE BELGRANO,289,24,"Sucre, Antonio Jose De, Mcal. y Vertiz Virrey Av.","Sucre, Antonio Jose De, Mcal.",,Vertiz Virrey Av.,Belgrano
+-34.6186003,-58.4456027,224 - FERROCARRIL OESTE,290,20,"Garcia Lorca, Federico 280","Garcia Lorca, Federico",280,,Caballito
+-34.616985,-58.381621,244 - UADE,291,16,Lima 750,Lima,750,,Monserrat
+-34.634796,-58.378109,355 - PLAZA RICARDO LLERAS,292,20,"Samperio, Manuel J. y Herrera","Samperio, Manuel J.",,Herrera,Barracas
+-34.6264943,-58.4324405,294 - Bonifacio,293,16,"Bonifacio, Jose 381","Bonifacio, Jose",381,,Caballito
+-34.5458835,-58.4520062,363 - Udaondo,294,20,"Udaondo, Guillermo Av. 1185","Udaondo, Guillermo Av.",1185,,Nuñez
+-34.624802,-58.437683,392 - Calasanz,295,20,San Jose De Calasanz y Valle,San Jose De Calasanz,,Valle,Caballito
+-34.632961,-58.462547,293 - PEDERNERA,296,15,Pedernera 381,Pedernera,381,,Flores
+-34.640978,-58.466118,320 - QUIRNO,297,16,Quirno 781,Quirno,781,,Flores
+-34.634443,-58.463437,271 - Plazoleta 11 de Noviembre,298,16,Varela 401,Varela,401,,Flores
+-34.631486,-58.466293,221 - CULPINA,299,20,Culpina 121,Culpina,121,,Flores
+-34.6513917,-58.4327288,321 - PERITO MORENO,300,20,"Fernandez De La Cruz, F., Gral. Av. y Erezcano","Fernandez De La Cruz, F., Gral. Av.",,Erezcano,Nueva Pompeya
+-34.644841,-58.431785,309 - HOMERO MANZI,301,20,Barco Centenera Del 2292,Barco Centenera Del,2292,,Nueva Pompeya
+-34.651955,-58.415423,340 - PLAZA NUEVA POMPEYA,302,16,Traful 3800,Traful,3800,,Nueva Pompeya
+-34.5577145,-58.4626871,238 - RIVERA,303,20,"Rivera, Pedro I., Dr. 2583","Rivera, Pedro I., Dr.",2583,,Belgrano
+-34.589409,-58.484204,395 - Agronomia II,304,16,De Los Incas Av. y De Los Constituyentes Av.,De Los Incas Av.,,De Los Constituyentes Av.,Agronomia
+-34.612684,-58.44487,398 - Rojas,305,16,Rojas 731,Rojas,731,,Caballito
+-34.608465,-58.45585,380 - Paysandu y Galicia,306,20,Galicia 1220,Galicia,1220,,Caballito
+-34.6451626,-58.365323,358 - Plaza Almirante Brown,307,18,Irala y California,Irala,,California,Boca
+-34.567639,-58.436847,251 - Solar de la Abadía,308,20,Maure 1819,Maure,1819,,Palermo
+-34.6350001,-58.367059,298 - IRALA,309,20,Irala 695,Irala,695,,Barracas
+-34.63819,-58.37747,356 - Plaza Sergio Karakachoff,310,16,Brandsen y Herrera,Brandsen,,Herrera,Barracas
+-34.5972098,-58.47421143,213 - Hospital Alvear,311,20,Warnes Av. 2626,Warnes Av.,2626,,Flores
+-34.629028,-58.4769111,311 - CONCORDIA,312,20,Bogota 3396,Bogota,3396,,Floresta
+-34.565003,-58.4449536,291 - UNIVERSIDAD DE BELGRANO,313,20,Zabala 1920,Zabala,1920,,Palermo
+-34.61047,-58.4602399,212 - SOR JUANA,314,16,Galicia 1630,Galicia,1630,,Caballito
+-34.605638,-58.4533609,205 - SAN MARTIN,316,16,Cucha Cucha 1471,Cucha Cucha,1471,,Villa Crespo
+-34.5797368,-58.4578146,220 - GIRIBONE,317,20,Giribone 1101,Giribone,1101,,Chacarita
+-34.603935,-58.45732,285 - ESPINOSA,318,20,Espinosa 1785,Espinosa,1785,,Villa Crespo
+-34.6036,-58.4036,329 - PASO Y LAVALLE,319,20,Paso 486,Paso,486,,Balvanera
+-34.584058,-58.440073,364 - Carranza Y Gorriti,320,20,"Carranza, Angel Justiniano 1501","Carranza, Angel Justiniano",1501,,Palermo
+-34.561851,-58.444754,246 - EDUARDO OLIVERA,321,16,"Campos, Luis M. Av. 1631","Campos, Luis M. Av.",1631,,Belgrano
+-34.5513269,-58.4541858,289 - MONTAÑESES,322,20,Montañeses 2786,Montañeses,2786,,Belgrano
+-34.565275,-58.459401,240 - ECHEVERRIA,323,24,Vidal 1981,Vidal,1981,,Belgrano
+-34.578933,-58.4840556,280 - JURAMENTO,324,16,Juramento 5209,Juramento,5209,,Villa Urquiza
+-34.645252,-58.416547,342 - SAENZ,325,16,Del Tigre 3935,Del Tigre,3935,,Nueva Pompeya
+-34.6411734,-58.4202266,343 - POMAR,326,20,"Pomar, Gregorio Tte. Cnel. 4152","Pomar, Gregorio Tte. Cnel.",4152,,Nueva Pompeya
+-34.654386,-58.419928,341 - TILCARA,327,16,Tilcara 3318,Tilcara,3318,,Nueva Pompeya
+-34.5931053,-58.4351681,100 - Plaza Gurruchaga,329,20,Gurruchaga 1078,Gurruchaga,1078,,Villa Crespo
+-34.6008,-58.47,148 - Paternal,330,16,12 De Octubre 1718, De Octubre,1718,,Paternal
+-34.602133,-58.490891,202 - Nogoya Y Argerich,332,16,Argerich 3018,Argerich,3018,,Villa Del Parque
+-34.6004332,-58.5036238,203 - Beiro,333,20,"Beiro, Francisco Av. 3572","Beiro, Francisco Av.",3572,,Villa Del Parque
+-34.615852,-58.470907,206 - Galicia,335,20,Galicia 2502,Galicia,2502,,Villa General Mitre
+-34.5999173,-58.5114159,207 - PLAZA ARENALES,336,28,Nueva York y Chivilcoy Av.,Nueva York,,Chivilcoy Av.,Devoto
+-34.5985,-58.4613,208 - Segui,337,16,"Segui, F. J., Alte. 2419","Segui, F. J., Alte.",2419,,Paternal
+-34.602931,-58.479421,210 - Terrero,338,16,Terrero 3211,Terrero,3211,,Villa Del Parque
+-34.61938,-58.45471,211 - ARANGUREN Y SEGUI,339,16,"Aranguren, Juan F., Dr. 1608","Aranguren, Juan F., Dr.",1608,,Caballito
+-34.626242,-58.467329,214 - Flores,340,12,Bogota 2620,Bogota,2620,,Flores
+-34.6142336,-58.4813858,216 - Margariños Cervantes y Argerich,341,16,"Magariños Cervantes, A. 3011","Magariños Cervantes, A.",3011,,Villa Santa Rita
+-34.616813,-58.484297,218 - Campana,342,20,Campana 1523,Campana,1523,,Villa Santa Rita
+-34.6357272,-58.4411639,219 - Parque Chacabuco II,343,20,Asamblea Av. y Faraday,Asamblea Av.,,Faraday,Parque Chacabuco
+-34.5947762,-58.4750615,226 - Parque La Paternal,345,20,"Zabala, Joaquin, Dr. y Chorroarin Av.","Zabala, Joaquin, Dr.",,Chorroarin Av.,Caballito
+-34.5834356,-58.4065391,230 - Parque Las Heras II,347,20,"Pacheco De Melo, Jose Andres 3120","Pacheco De Melo, Jose Andres",3120,,Palermo
+-34.610482,-58.474369,231 - Margariños Cervantes,348,16,"Magariños Cervantes, A. 2465","Magariños Cervantes, A.",2465,,Villa General Mitre
+-34.570894,-58.466884,232 - Sucre y Martinez,349,20,"Sucre, Antonio Jose De, Mcal. 3517","Sucre, Antonio Jose De, Mcal.",3517,,Belgrano
+-34.567996,-58.4851455,234 - Valdenegro,350,20,Valdenegro 2831,Valdenegro,2831,,Villa Urquiza
+-34.5717033,-58.4520772,235 - Colegiales,351,16,Zabala 2825,Zabala,2825,,Colegiales
+-34.5807104,-58.4248291,236 - Guemes,352,28,Guemes 4718,Guemes,4718,,Palermo
+-34.5986779,-58.3647259,237 - Madero Office,353,20,"Sanchez De Thompson, Mariquita 367","Sanchez De Thompson, Mariquita",367,,Puerto Madero
+-34.613457,-58.4401581,241 - Sanatorio Mendez,354,20,Hidalgo 512,Hidalgo,512,,Caballito
+-34.5675048,-58.4465088,242 - Plazoleta Rafael del Riego,355,16,O'Higgins 1327,O'Higgins,1327,,Palermo
+-34.547695,-58.4584684,245 - Arribeños,356,16,Arribeños 3229,Arribeños,3229,,Nuñez
+-34.5615465,-58.4655255,249 - Balbín,358,12,Conesa 2519,Conesa,2519,,Belgrano
+-34.555654,-58.4504687,250 - Fleni,359,20,Montañeses 2292,Montañeses,2292,,Belgrano
+-34.569147,-58.453732,258 - Plaza J.J. Paso,361,20,Moldes 1399,Moldes,1399,,Colegiales
+-34.566746,-58.479108,262 - Holmberg,362,16,Holmberg 2725,Holmberg,2725,,Villa Urquiza
+-34.642052,-58.46205,354 - Plaza Tupac Amaru,363,28,Primera Junta 3101,Primera Junta,3101,,Flores
+-34.568722,-58.434381,381 - Matienzo Y Arce,364,24,"Matienzo, Benjamin, Teniente 1798","Matienzo, Benjamin, Teniente",1798,,Palermo
+-34.635402,-58.482602,360 - Plaza Ramon Falcon,366,20,"Falcon, Ramon L.,Cnel. 3991","Falcon, Ramon L.,Cnel.",3991,,Velez Sarfield
+-34.6163487,-58.4772418,287 - Belaustegui,367,16,"Belaustegui, Luis, Dr. 2874","Belaustegui, Luis, Dr.",2874,,Villa Santa Rita
+-34.592244,-58.491797,304 - Navarro,369,20,Navarro 2625,Navarro,2625,,Agronomia
+-34.590964,-58.500336,305 - Plaza Martin Rodriguez,370,20,Pareja 3016,Pareja,3016,,Agronomia
+-34.63281,-58.455058,269 - Plaza De La Misericordia,371,16,Lautaro 493,Lautaro,493,,Flores
+-34.636406,-58.470136,322 - MARTÍ Y DIRECTORIO,372,12,"Marti, Jose 404","Marti, Jose",404,,Flores
+-34.5824889,-58.4810286,265 - Plaza Exodo Jujeño,373,16,Liverpool 2812,Liverpool,2812,,Parque Chas
+-34.645764,-58.4573968,367 - Mariano Castex,374,16,"Alvarez, Crisostomo 2873","Alvarez, Crisostomo",2873,,Flores
+-34.6050537,-58.4847864,301 - Arregui Y Terrada,375,16,Arregui 2793,Arregui,2793,,Villa Del Parque
+-34.626698,-58.4871352,324 - Las Victorias,376,20,"Vallese, Felipe 4083","Vallese, Felipe",4083,,Floresta
+-34.607333,-58.422987,327 - ACUÑA DE FIGUEROA Y POTOSI,377,16,"Acuña De Figueroa, Francisco 296","Acuña De Figueroa, Francisco",296,,Almagro
+-34.623123,-58.468287,215 - HOSPITAL ALVAREZ,378,20,Estado Plurinacional De Bolivia 683,Estado Plurinacional De Bolivia,683,,Flores
+-34.560162,-58.428163,390 - De Los Ombues,379,20,"De Los Ombues Av. y Bello, Andres",De Los Ombues Av.,,"Bello, Andres",Palermo
+-34.6060382,-58.46481,319 - Cervantes y Trelles,380,20,Cervantes 1683,Cervantes,1683,,Villa General Mitre
+-34.6153,-58.4665179,274 - Plaza Nuestra Señora de la Asuncion,381,16,Gavilan 1300,Gavilan,1300,,Villa General Mitre
+-34.605452,-58.477426,204 - Biarritz,382,16,Biarritz 2403,Biarritz,2403,,Villa Del Parque
+-34.571621,-58.489026,263 - Plaza Echeverria,383,20,Nahuel Huapi y Triunvirato Av.,Nahuel Huapi,,Triunvirato Av.,Villa Urquiza
+-34.579734,-58.4618523,267 - Plaza 25 De Agosto,384,16,14 De Julio 1194, De Julio,1194,,Villa Ortuzar
+-34.6061187,-58.4934192,268 - Plaza Aristóbulo Del Valle,385,16,"Campana y Sastre, Marcos",Campana,,"Sastre, Marcos",Villa Del Parque
+-34.5656428,-58.475512,277 - Coghlan,386,8,Estomba 2647,Estomba,2647,,Coghlan
+-34.6019716,-58.4655301,278 - Donato Alvarez,387,16,"Garcia, Juan Agustin 1540","Garcia, Juan Agustin",1540,,Paternal
+-34.580927,-58.48455,279 - Andonaegui,388,20,Andonaegui 1902,Andonaegui,1902,,Villa Urquiza
+-34.62795,-58.44024,286 - OEA,389,20,Barco Centenera Del 741,Barco Centenera Del,741,,Caballito
+-34.547758,-58.459881,288- 11 de septiembre,390,28,11 De Septiembre De 1888 3314, De Septiembre De,3314,,Nuñez
+-34.5508944,-58.4719176,295 - Larralde,391,20,Vidal 3607,Vidal,3607,,Saavedra
+-34.554754,-58.485419,297 - TRONADOR Y GARCÍA DEL RÍO,392,16,Tronador y Garcia Del Rio,Tronador,,Garcia Del Rio,Coghlan
+-34.590848,-58.468535,300 - Jose Artigas,393,12,Balboa 524,Balboa,524,,Paternal
+-34.649578,-58.462646,302 - Plaza Jose Marti,394,20,"Acosta, Mariano 1801","Acosta, Mariano",1801,,Flores
+-34.5968038,-58.4535687,303 - Huaura,395,16,Huaura 1474,Huaura,1474,,Villa Crespo
+-34.601852,-58.448011,306 - Tres Arroyos Y Olaya,396,20,Tres Arroyos 327,Tres Arroyos,327,,Villa Crespo
+-34.5979984,-58.4856262,308 - Artigas Y Melincue,397,12,"Artigas, Jose Gervasio, Gral. y Melincue","Artigas, Jose Gervasio, Gral.",,Melincue,Villa Del Parque
+-34.5761817,-58.4546508,310 - Gregoria Perez,398,16,"Perez, Gregoria 3314","Perez, Gregoria",3314,,Colegiales
+-34.6340414,-58.446273,312 - Parque Chacabuco  I,399,20,"Peron, Eva Av. y Achaval","Peron, Eva Av.",,Achaval,Parque Chacabuco
+-34.579751,-58.471003,313 - De Los Incas,400,16,Donado 1378,Donado,1378,,Villa Ortuzar
+-34.6347618,-58.4795922,314 - Ramón Falcon,401,20,"Falcon, Ramon L.,Cnel. 3792","Falcon, Ramon L.,Cnel.",3792,,Floresta
+-34.5976121,-58.4985424,315 - BEIRO Y SAN MARTÍN,402,16,"Beiro, Francisco Av. 3209","Beiro, Francisco Av.",3209,,Devoto
+-34.543949,-58.4408983,317 - Cero Más Infinito,404,20,,,,,Belgrano
+-34.5767497,-58.4689771,318 - Plaza Y Carbajal,405,20,Plaza 1602,Plaza,1602,,Villa Ortuzar
+-34.6009283,-58.3642613,326 - Emma De La Barra,406,16,"De La Barra,  Emma 301","De La Barra,  Emma",301,,Puerto Madero
+-34.6429977,-58.4815713,330 - Parque Avellaneda,407,28,Directorio Av. y Fernandez,Directorio Av.,,Fernandez,Parque Avellaneda
+-34.6600076,-58.4683699,337 - UTN,408,20,Mozart 2400,Mozart,2400,,Villa Lugano
+-34.654801,-58.412878,339 - AMANCIO ALCORTA,409,24,"Alcorta, Amancio Av. 3805","Alcorta, Amancio Av.",3805,,Nueva Pompeya
+-34.6385808,-58.4769856,368 - Ensenada,411,12,Ensenada 413,Ensenada,413,,Floresta
+-34.6626285,-58.4411434,372 - Villa Soldati,412,16,"Triana, Rodrigo De 3102","Triana, Rodrigo De",3102,,Villa Soldati
+-34.6545736,-58.379346,382 - CMD,413,16,Algarrobo 1016,Algarrobo,1016,,Barracas
+-34.607731,-58.4383041,385 - Franklin,414,20,Franklin 440,Franklin,440,,Caballito
+-34.6203961,-58.4637146,386 - Gavilan Y Vallese,415,20,Gavilan 786,Gavilan,786,,Flores
+-34.5532664,-58.469072,257 - Plaza Francisco Ramirez,416,28,"Pedraza, Manuela 2700","Pedraza, Manuela",2700,,Nuñez
+-34.6053524,-58.3880338,328 - Centro Cultural San Martin,417,20,Sarmiento 1501,Sarmiento,1501,,San Nicolas
+-34.580773,-58.4446136,345 - Plaza Mafalda,418,20,"Arenal, Concepcion y Martinez, Enrique, Gral.","Arenal, Concepcion",,"Martinez, Enrique, Gral.",Colegiales
+-34.547673,-58.467851,359 - Plaza Balcarce,419,20,Jaramillo 2324,Jaramillo,2324,,Nuñez
+-34.5440696,-58.4390434,375 - Ciudad Universitaria I,420,20,,,,,Belgrano
+-34.5419013,-58.4438699,376 - Ciudad Universitaria II,421,12,,,,,Belgrano
+-34.5409892,-58.4442786,377 - Ciudad Uuniversitaria III,422,28,,,,,Belgrano
+-34.638584,-58.399683,387 - Luna,424,16,Luna 201,Luna,201,,Parque Patricios
+-34.6440763,-58.422091,394 - Av. La Plata,425,16,"Arbeletche, Anibal P. 804","Arbeletche, Anibal P.",804,,Nueva Pompeya
+-34.555582,-58.457962,396 - PLAZA ALBERTI,426,20,Arcos y Roosevelt Franklin D.,Arcos,,Roosevelt Franklin D.,Belgrano
+-34.64072,-58.367461,397 - PLAZA MATHEU,427,24,"Hernandarias y Araoz De Lamadrid, Gregorio, Gral.",Hernandarias,,"Araoz De Lamadrid, Gregorio, Gral.",Boca
+-34.587458,-58.4739506,225 - HOSPITAL TORNU,428,20,Avalos 1052,Avalos,1052,,Parque Chas
+-34.6115826,-58.484692,201 - JUAN AGUSTIN GARCIA,429,20,"Garcia, Juan Agustin 3074","Garcia, Juan Agustin",3074,,Villa Del Parque
+-34.607981,-58.3778856,037 - Claudia Pia Braudacco,430,12,Esmeralda y Rivadavia Av.,Esmeralda,,Rivadavia Av.,San Nicolas
+-34.5430055,-58.4361167,362 - PARQUE DE LA MEMORIA,431,20,"Obligado Rafael, Av.Costanera 7201","Obligado Rafael, Av.Costanera",7201,,Belgrano
+-34.620249,-58.435877,187 - Jose Maria Moreno,432,20,"Moreno, Jose Maria Av. 141","Moreno, Jose Maria Av.",141,,Caballito
+-34.637491,-58.373638,273 - Plazoleta Colombia,433,20,Brandsen 1619,Brandsen,1619,,Barracas
+-34.5457258,-58.4650865,247 - Plaza Lucio Demare,434,12,O'Higgins 3750,O'Higgins,3750,,Nuñez
+-34.5445971,-58.4595541,227 -Club Ciudad de Buenos Aires,435,16,"Sanchez, Miguel B. Av. y Del Libertador Av.","Sanchez, Miguel B. Av.",,Del Libertador Av.,Nuñez
+-34.5782972,-58.4450299,253 - Plaza Colegiales,436,28,,Plaza Colegiales,,,Palermo
+-34.61001199,-58.3749195,016 - Legislatura,441,20,Peru 169,Peru,169,"Roca, Julio A., Presidente Diagonal Sur Av.",Monserrat
+-34.6056194,-58.371607,048 - Perón,442,15,"Peron, Juan Domingo, Tte. General 338","Peron, Juan Domingo, Tte. General",338,,San Nicolas
+-34.6157533,-58.3706184,081 -Balcarce,443,18,Balcarce y Chile Av.,Balcarce,,Chile Av.,Monserrat
+-34.6089087,-58.3711541,061-Ministerio de Economia,444,24,"Balcarce y Yrigoyen, Hipolito Av.",Balcarce,,"Yrigoyen, Hipolito Av.",Monserrat
+-34.5832497,-58.3787309,393 - Barrio 31,448,16,Carlos H. Perette 11,Carlos H. Perette,11,"Perette, Carlos H.",Retiro
+-34.6074084,-58.3950548,076 - Ayacucho,76,20,"Ayacucho y Peron, Juan Domingo, Tte. General",Ayacucho,,"Peron, Juan Domingo, Tte. General",Balvanera
+-34.598549,-58.397354,43 - Plaza Houssay,328,16,"Cordoba Av. y Uriburu Jose E., Pres.",Cordoba Av.,,"Uriburu Jose E., Pres.",Recoleta
+-34.6289374,-58.4636606,San Jose de Flores,449,24,Avenida Rivadavia y Fray Cayetano,Avenida Rivadavia,,Fray Cayetano,Flores
+-34.613449,-58.423397,197 - Quintino Bocayuva,197,20,Quintino Bocayuva y Don Bosco,Quintino Bocayuva,,Don Bosco,Almagro
