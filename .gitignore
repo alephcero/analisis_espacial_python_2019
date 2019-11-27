@@ -103,6 +103,7 @@ venv.bak/
 
 data/molinetes_historico_2018.csv
 data/recorridos-realizados-2019.csv
+clase_6/untitled.txt
 
 # mypy
 .mypy_cache/
